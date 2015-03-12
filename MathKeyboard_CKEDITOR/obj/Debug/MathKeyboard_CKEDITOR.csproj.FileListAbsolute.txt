@@ -1,0 +1,6 @@
+C:\Users\Codebreaker\documents\visual studio 2013\Projects\TestProjects\MathKeyboard_CKEDITOR\bin\MathKeyboard_CKEDITOR.dll.config
+C:\Users\Codebreaker\documents\visual studio 2013\Projects\TestProjects\MathKeyboard_CKEDITOR\bin\MathKeyboard_CKEDITOR.dll
+C:\Users\Codebreaker\documents\visual studio 2013\Projects\TestProjects\MathKeyboard_CKEDITOR\bin\MathKeyboard_CKEDITOR.pdb
+C:\Users\Codebreaker\documents\visual studio 2013\Projects\TestProjects\MathKeyboard_CKEDITOR\obj\Debug\MathKeyboard_CKEDITOR.dll
+C:\Users\Codebreaker\documents\visual studio 2013\Projects\TestProjects\MathKeyboard_CKEDITOR\obj\Debug\MathKeyboard_CKEDITOR.pdb
+C:\Users\Codebreaker\documents\visual studio 2013\Projects\TestProjects\MathKeyboard_CKEDITOR\obj\Debug\MathKeyboard_CKEDITOR.csprojResolveAssemblyReference.cache
