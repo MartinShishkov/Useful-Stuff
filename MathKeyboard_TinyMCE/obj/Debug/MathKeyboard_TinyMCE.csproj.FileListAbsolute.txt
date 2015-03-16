@@ -1,0 +1,6 @@
+C:\Users\Codebreaker\documents\visual studio 2013\Projects\TestProjects\MathKeyboard_TinyMCE\bin\MathKeyboard_TinyMCE.dll.config
+C:\Users\Codebreaker\documents\visual studio 2013\Projects\TestProjects\MathKeyboard_TinyMCE\bin\MathKeyboard_TinyMCE.dll
+C:\Users\Codebreaker\documents\visual studio 2013\Projects\TestProjects\MathKeyboard_TinyMCE\bin\MathKeyboard_TinyMCE.pdb
+C:\Users\Codebreaker\documents\visual studio 2013\Projects\TestProjects\MathKeyboard_TinyMCE\obj\Debug\MathKeyboard_TinyMCE.csprojResolveAssemblyReference.cache
+C:\Users\Codebreaker\documents\visual studio 2013\Projects\TestProjects\MathKeyboard_TinyMCE\obj\Debug\MathKeyboard_TinyMCE.dll
+C:\Users\Codebreaker\documents\visual studio 2013\Projects\TestProjects\MathKeyboard_TinyMCE\obj\Debug\MathKeyboard_TinyMCE.pdb
